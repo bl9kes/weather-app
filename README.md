@@ -26,7 +26,7 @@ A simple and responsive weather dashboard built with **React**. Users can search
 
 ## 🧑‍💻 Getting Started
 
-- git clone https://github.com/yourusername/weather-dashboard.git
+- git clone https://github.com/bl9kes/weather-dashboard.git
 
 - cd weather-dashboard
 
