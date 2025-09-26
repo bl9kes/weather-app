@@ -1,22 +1,22 @@
-Just messing around trying to learn more about APIs
+Just messing around, trying to learn more about APIs
 
-# 🌤️ Weather Dashboard
+# Weather Dashboard
 
 A simple and responsive weather dashboard built with **React**. Users can search for any city to view current weather conditions using data from the **OpenWeatherMap API**.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔍 Search by city name
-- 🌡️ View temperature, humidity, wind, and weather description
-- 🎯 Live API integration with OpenWeatherMap
-- ⏳ Loading and error handling
-- 💡 Responsive design for desktop and mobile
+- Search by city name
+- View temperature, humidity, wind, and weather description
+- Live API integration with OpenWeatherMap
+- Loading and error handling
+- Responsive design for desktop and mobile
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - [React](https://reactjs.org/)
 - [OpenWeatherMap API](https://openweathermap.org/api)
@@ -24,7 +24,7 @@ A simple and responsive weather dashboard built with **React**. Users can search
 
 ---
 
-## 🧑‍💻 Getting Started
+## Getting Started
 
 - git clone https://github.com/bl9kes/weather-dashboard.git
 
